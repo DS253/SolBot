@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "atom",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AlaskaAirlines/atom.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6f025300878e3d8ccfa3f6cf778baa673f199f1f"
+      }
+    }
+  ],
+  "version" : 2
+}
